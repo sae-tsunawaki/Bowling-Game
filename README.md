@@ -1,6 +1,9 @@
 # CS174A_Bowling
 
-## Final Group Project for Computer Graphics Course CS174A
+## Final Group Project for Computer Graphics 
+
+- Designed and developed a simple multiplayer bowling game with a team of 5 students using Javascript WebGL
+- Implemented collision detection between objects in code using physics, and enforced game logic and score tracking
 
 ## Usage:
 
